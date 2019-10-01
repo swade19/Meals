@@ -1,6 +1,7 @@
 Parties
-Apple juice 
+Apple juice
 strawberry
 pineapple
 Toast
-Pancakes 
+Pancakes
+Cereal
